@@ -92,7 +92,10 @@ Chart's Requirements
             broken down by different outlet types.
             
             Chart Type: Matrix Card.
-      
+
+![Blinkit Dashboard](https://github.com/user-attachments/assets/4e358b96-b65d-4e36-8bcb-763a80530ada)
+
+
 
 
 
