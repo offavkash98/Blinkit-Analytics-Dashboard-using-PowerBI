@@ -1,6 +1,6 @@
 # Blinkit-Analytics-Dashboard-using-PowerBI
 
-STEPS IN PROJECT
+# STEPS IN PROJECT
 1) Requirement Gathering/ Business Requirements
 2) Data Walkthrough
 3) Data Connection
